@@ -60,3 +60,5 @@ Watch the real-time PWM generation and LCD interface demonstration below:
     Your browser does not support the video tag.
   </video>
 </p>
+
+---
