@@ -1,0 +1,28 @@
+
+---------------Pinout-----------------
+
+### LCD Pins:
+Pin          | GPIO Port  | Pin Number
+--------------------------------------
+RS           | GPIOA      | PIN 1
+E            | GPIOA      | PIN 2
+D0           | GPIOD      | PIN 0
+D1           | GPIOD      | PIN 1
+D2           | GPIOD      | PIN 2
+D3           | GPIOD      | PIN 3
+D4           | GPIOD      | PIN 4
+D5           | GPIOD      | PIN 5
+D6           | GPIOD      | PIN 6
+D7           | GPIOD      | PIN 7
+
+### Timer Pins:
+Pin          | GPIO Port  | Pin Number
+--------------------------------------
+TIM1_CH1     | GPIOE      | PIN 9
+TIM2_CH1     | GPIOA      | PIN 5
+TIM4_CH1     | GPIOD      | PIN 12
+
+### Pot Pins:
+Pin          | GPIO Port  | Pin Number
+--------------------------------------
+ADC1_IN0     | GPIOA      | PIN 0
